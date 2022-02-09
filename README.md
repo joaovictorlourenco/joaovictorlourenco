@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/jo%C3%A3o-victor1840b221b/](https://www.linkedin.com/in/jo%C3%A3o-victor1840b221b/)
 
-- ⚡ Fun fact **Meu maior sonho no momento é trabalhar no canada**
+- ⚡ Fun fact **Meu maior sonho no momento é trabalhar no Canadá**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
