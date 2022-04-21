@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript, React, Node, PHP**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Eenar?tab=repositories](https://github.com/Eenar?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/joaovictorlourenco?tab=repositories](https://github.com/Eenar?tab=repositories)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/jo%C3%A3o-victor1840b221b/](https://www.linkedin.com/in/jo%C3%A3o-victor1840b221b/)
 
