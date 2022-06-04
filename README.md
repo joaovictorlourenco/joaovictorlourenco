@@ -2,13 +2,13 @@
 <h3 align="center">Desenvolvedor full-stack(em aprendizagem)</h3>
 
 
-- 🌱 I’m currently learning **Javascript, React, Node, PHP**
+- - 🌱 I’m currently learning ** Vue and Node **
 
 - 👨‍💻 All of my projects are available at [https://github.com/joaovictorlourenco?tab=repositories](https://github.com/joaovictorlourenco?tab=repositories)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/jo%C3%A3o-victor1840b221b/](https://www.linkedin.com/in/jo%C3%A3o-victor1840b221b/)
 
-- 💬 Ask me about **Html/CSS**
+- 💬 Ask me about **javascript, Html/css and PHP**
 
 - 📫 How to reach me **joaovictorlourenco886@gmail.com**
 
