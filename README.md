@@ -2,11 +2,7 @@
 <h3 align="center">Desenvolvedor full-stack(em aprendizagem)</h3>
 
 
-- - 🌱 I’m currently learning ** Vue and Node **
-
-- 👨‍💻 All of my projects are available at [https://github.com/joaovictorlourenco?tab=repositories](https://github.com/joaovictorlourenco?tab=repositories)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/jo%C3%A3o-victor1840b221b/](https://www.linkedin.com/in/jo%C3%A3o-victor1840b221b/)
+- 🌱 I’m currently learning ** Vue and Node **
 
 - 💬 Ask me about **javascript, Html/css and PHP**
 
@@ -14,7 +10,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/jo%C3%A3o-victor1840b221b/](https://www.linkedin.com/in/jo%C3%A3o-victor1840b221b/)
 
-- ⚡ Fun fact **Meu maior sonho no momento é trabalhar no Canadá**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
