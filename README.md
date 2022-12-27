@@ -2,7 +2,7 @@
 <h3 align="center">Desenvolvedor full-stack(em aprendizagem)</h3>
 
 
-- 🌱 I’m currently learning **Vue and Node**
+- 🌱 I’m currently learning **React and Node**
 
 - 💬 Ask me about **javascript, Html/css and PHP**
 
