@@ -31,7 +31,11 @@
 
 ###
 
-<p align="left">I'm Full-Stack Developer from Uberaba - BR<br><br>- 🔭 I’m working as Valley Irrigation<br>- 📚 I'm currently learning Next and Nest<br>- ⚡ In my free time i make some games</p>
+<p align="left">
+I'm João Victor Lourenço and I live in Uberaba. <br>
+<br>- 🔭 I’m working as Full-Stack Developer
+<br>- 📚 I'm currently learning Next and Nest
+<br>- ⚡ In my free time i make some games</p>
 
 ###
 
