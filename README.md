@@ -23,7 +23,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey There 👋</h1>
 
 ###
 
@@ -45,7 +45,7 @@ I'm João Victor Lourenço and I live in Uberaba. <br>
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,docker,aws,kotlin,python,typescript,nest,bun,react,angular,next,jest,figma" />
   </a>
 </p>
 
