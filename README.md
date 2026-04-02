@@ -21,21 +21,23 @@
   </a>
 </div>
 
-###
-
 <h1 align="center">Hey There 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 Sobre Mim</h3>
 
 ###
 
 <p align="left">
-I'm João Victor Lourenço and I live in Uberaba. <br>
-<br>- 🔭 I’m working as Full-Stack Developer
-<br>- 📚 I'm currently learning Kotlin
-<br>- ⚡ In my free time i make some games</p>
+Meu nome é <strong>João Victor</strong>, sou Desenvolvedor de Software baseado em Uberlândia, MG. <br>
+Atualmente, faço parte do time da <strong>Luizalabs (Magalu)</strong>, focando em soluções escaláveis e de alto impacto. 🚀
+<br>
+<br>- 🔭 Atualmente trabalhando como <strong>Software Engineer</strong> com foco em tecnologias modernas.
+<br>- 🎓 Pós-graduando em <strong>Engenharia de Software</strong> pela PUC Minas.
+<br>- 📚 No momento, aprofundando conhecimentos em <strong>Go (Golang)</strong> e arquiteturas <strong>Local-first</strong>.
+<br>- 🛠️ Desenvolvendo projetos paralelos como o <strong>Diniz Tech</strong> e ferramentas de produtividade.
+<br>- ⚡ No tempo livre, gosto de explorar o desenvolvimento de apps desktop (Electron/Tauri) e games.</p>
 
 ###
 
