@@ -36,7 +36,7 @@ Atualmente, faço parte do time da <strong>Luizalabs (Magalu)</strong>, focando 
 <br>- 🔭 Atualmente trabalhando como <strong>Software Engineer</strong> com foco em tecnologias modernas.
 <br>- 🎓 Pós-graduando em <strong>Engenharia de Software</strong> pela PUC Minas.
 <br>- 📚 No momento, aprofundando conhecimentos em <strong>Go (Golang)</strong> e arquiteturas <strong>Local-first</strong>.
-<br>- 🛠️ Desenvolvendo projetos paralelos como o <strong>Diniz Tech</strong> e ferramentas de produtividade.
+<br>- 🛠️ Desenvolvendo projetos paralelos e ferramentas de produtividade.
 <br>- ⚡ No tempo livre, gosto de explorar o desenvolvimento de apps desktop (Electron/Tauri) e games.</p>
 
 ###
